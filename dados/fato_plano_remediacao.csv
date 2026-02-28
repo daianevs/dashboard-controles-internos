@@ -1,0 +1,63 @@
+id_remediacao,id_teste,id_controle,id_ciclo,descricao_acao,responsavel_acao,area_responsavel,severidade,data_abertura,data_prazo,data_conclusao,status_remediacao,evidencia_anexada
+R001,T0001,C009,CIC001,Revisão e correção do controle C009 - Falha Crítica,Bruno Alves,Controles Internos,Alta,2024-03-16,2024-04-15,,Atrasado,Sim
+R002,T0005,C004,CIC001,Revisão e correção do controle C004 - Deficiência Operacional,Camila Souza,Financeiro,Média,2024-02-01,2024-04-01,,Em andamento,Sim
+R003,T0008,C020,CIC001,Revisão e correção do controle C020 - Deficiência de Design,Fernanda Oliveira,Crédito,Média,2024-03-02,2024-05-01,2024-03-14,Concluído,Sim
+R004,T0011,C007,CIC001,Revisão e correção do controle C007 - Deficiência de Design,Lucas Pereira,Crédito,Média,2024-02-21,2024-04-21,2024-03-07,Concluído,Sim
+R005,T0012,C001,CIC001,Revisão e correção do controle C001 - Deficiência de Design,Ricardo Mendes,Financeiro,Média,2024-03-08,2024-05-07,,Em andamento,Sim
+R006,T0014,C018,CIC001,Revisão e correção do controle C018 - Deficiência Operacional,Ricardo Mendes,Controles Internos,Baixa,2024-02-21,2024-05-21,2024-03-08,Concluído,Não
+R007,T0016,C006,CIC001,Revisão e correção do controle C006 - Deficiência Operacional,Camila Souza,Crédito,Baixa,2024-03-21,2024-06-19,,Em andamento,Sim
+R008,T0019,C016,CIC001,Revisão e correção do controle C016 - Deficiência de Design,Lucas Pereira,TI,Média,2024-03-14,2024-05-13,,Em andamento,Não
+R009,T0024,C011,CIC002,Revisão e correção do controle C011 - Falha Crítica,Fernanda Oliveira,Financeiro,Alta,2024-06-20,2024-07-20,,Atrasado,Não
+R010,T0025,C002,CIC002,Revisão e correção do controle C002 - Deficiência de Design,Camila Souza,Controles Internos,Baixa,2024-05-15,2024-08-13,,Em andamento,Não
+R011,T0026,C005,CIC002,Revisão e correção do controle C005 - Falha Crítica,Lucas Pereira,Controles Internos,Alta,2024-05-21,2024-06-20,,Em andamento,Não
+R012,T0031,C014,CIC002,Revisão e correção do controle C014 - Deficiência de Design,Bruno Alves,TI,Baixa,2024-05-13,2024-08-11,2024-07-30,Concluído,Sim
+R013,T0032,C012,CIC002,Revisão e correção do controle C012 - Falha Crítica,Camila Souza,TI,Alta,2024-06-23,2024-07-23,,Não iniciado,Sim
+R014,T0035,C016,CIC002,Revisão e correção do controle C016 - Deficiência de Design,Felipe Santos,Compliance,Média,2024-04-20,2024-06-19,2024-06-13,Concluído,Sim
+R015,T0041,C004,CIC003,Revisão e correção do controle C004 - Falha Crítica,Lucas Pereira,Crédito,Alta,2024-09-18,2024-10-18,,Em andamento,Sim
+R016,T0042,C002,CIC003,Revisão e correção do controle C002 - Deficiência Operacional,Lucas Pereira,Controles Internos,Baixa,2024-09-14,2024-12-13,2024-10-30,Concluído,Sim
+R017,T0045,C001,CIC003,Revisão e correção do controle C001 - Deficiência de Design,Ricardo Mendes,TI,Média,2024-09-28,2024-11-27,,Atrasado,Sim
+R018,T0049,C007,CIC003,Revisão e correção do controle C007 - Deficiência de Design,Mariana Costa,Controles Internos,Baixa,2024-07-19,2024-10-17,2024-08-03,Concluído,Não
+R019,T0052,C012,CIC003,Revisão e correção do controle C012 - Deficiência de Design,Camila Souza,TI,Média,2024-09-19,2024-11-18,,Em andamento,Não
+R020,T0055,C005,CIC003,Revisão e correção do controle C005 - Deficiência Operacional,Fernanda Oliveira,Controles Internos,Média,2024-09-12,2024-11-11,,Atrasado,Sim
+R021,T0056,C006,CIC003,Revisão e correção do controle C006 - Deficiência Operacional,Fernanda Oliveira,TI,Média,2024-08-14,2024-10-13,,Em andamento,Não
+R022,T0057,C010,CIC003,Revisão e correção do controle C010 - Deficiência Operacional,Camila Souza,Crédito,Média,2024-07-31,2024-09-29,,Atrasado,Não
+R023,T0058,C001,CIC004,Revisão e correção do controle C001 - Deficiência de Design,Bruno Alves,TI,Média,2024-10-22,2024-12-21,,Em andamento,Sim
+R024,T0061,C005,CIC004,Revisão e correção do controle C005 - Deficiência de Design,Bruno Alves,Controles Internos,Média,2024-11-14,2025-01-13,,Em andamento,Sim
+R025,T0062,C002,CIC004,Revisão e correção do controle C002 - Deficiência de Design,Mariana Costa,Compliance,Baixa,2024-11-07,2025-02-05,2024-12-03,Concluído,Sim
+R026,T0068,C007,CIC004,Revisão e correção do controle C007 - Deficiência de Design,Ricardo Mendes,Crédito,Baixa,2024-11-28,2025-02-26,2024-12-18,Concluído,Sim
+R027,T0069,C011,CIC004,Revisão e correção do controle C011 - Falha Crítica,Ricardo Mendes,Crédito,Alta,2024-12-05,2025-01-04,,Em andamento,Não
+R028,T0071,C012,CIC004,Revisão e correção do controle C012 - Falha Crítica,Camila Souza,Crédito,Alta,2024-11-16,2024-12-16,,Não iniciado,Sim
+R029,T0074,C015,CIC004,Revisão e correção do controle C015 - Deficiência Operacional,Ricardo Mendes,Compliance,Baixa,2024-11-28,2025-02-26,2024-12-30,Concluído,Não
+R030,T0077,C007,CIC005,Revisão e correção do controle C007 - Deficiência de Design,Felipe Santos,Financeiro,Baixa,2025-03-21,2025-06-19,2025-06-01,Concluído,Sim
+R031,T0079,C016,CIC005,Revisão e correção do controle C016 - Falha Crítica,Fernanda Oliveira,Compliance,Alta,2025-03-18,2025-04-17,,Em andamento,Sim
+R032,T0082,C002,CIC005,Revisão e correção do controle C002 - Deficiência Operacional,Lucas Pereira,Financeiro,Média,2025-03-23,2025-05-22,,Em andamento,Sim
+R033,T0083,C005,CIC005,Revisão e correção do controle C005 - Falha Crítica,Bruno Alves,Financeiro,Alta,2025-02-22,2025-03-24,,Em andamento,Sim
+R034,T0084,C009,CIC005,Revisão e correção do controle C009 - Deficiência de Design,Bruno Alves,Controles Internos,Média,2025-02-28,2025-04-29,,Atrasado,Sim
+R035,T0088,C014,CIC005,Revisão e correção do controle C014 - Deficiência Operacional,Ricardo Mendes,Controles Internos,Baixa,2025-02-02,2025-05-03,2025-02-19,Concluído,Sim
+R036,T0089,C019,CIC005,Revisão e correção do controle C019 - Falha Crítica,Fernanda Oliveira,TI,Alta,2025-03-13,2025-04-12,,Atrasado,Não
+R037,T0090,C008,CIC005,Revisão e correção do controle C008 - Falha Crítica,Fernanda Oliveira,Financeiro,Alta,2025-03-11,2025-04-10,,Em andamento,Sim
+R038,T0091,C003,CIC005,Revisão e correção do controle C003 - Deficiência de Design,Lucas Pereira,Controles Internos,Baixa,2025-02-28,2025-05-29,2025-04-25,Concluído,Sim
+R039,T0096,C013,CIC006,Revisão e correção do controle C013 - Deficiência de Design,Bruno Alves,Compliance,Média,2025-04-18,2025-06-17,2025-06-06,Concluído,Não
+R040,T0098,C002,CIC006,Revisão e correção do controle C002 - Deficiência de Design,Camila Souza,Crédito,Baixa,2025-06-20,2025-09-18,2025-09-15,Concluído,Sim
+R041,T0101,C003,CIC006,Revisão e correção do controle C003 - Deficiência Operacional,Bruno Alves,Crédito,Baixa,2025-05-27,2025-08-25,2025-08-04,Concluído,Sim
+R042,T0106,C004,CIC006,Revisão e correção do controle C004 - Deficiência Operacional,Mariana Costa,TI,Média,2025-04-26,2025-06-25,2025-05-12,Concluído,Não
+R043,T0107,C010,CIC006,Revisão e correção do controle C010 - Deficiência Operacional,Felipe Santos,Compliance,Média,2025-06-07,2025-08-06,,Atrasado,Não
+R044,T0108,C003,CIC007,Revisão e correção do controle C003 - Deficiência Operacional,Camila Souza,Compliance,Média,2025-09-16,2025-11-15,2025-10-29,Concluído,Não
+R045,T0109,C009,CIC007,Revisão e correção do controle C009 - Falha Crítica,Felipe Santos,Financeiro,Alta,2025-09-01,2025-10-01,,Em andamento,Sim
+R046,T0110,C015,CIC007,Revisão e correção do controle C015 - Deficiência de Design,Lucas Pereira,TI,Baixa,2025-07-23,2025-10-21,2025-09-04,Concluído,Sim
+R047,T0112,C018,CIC007,Revisão e correção do controle C018 - Deficiência Operacional,Lucas Pereira,Financeiro,Baixa,2025-09-01,2025-11-30,,Em andamento,Não
+R048,T0114,C016,CIC007,Revisão e correção do controle C016 - Falha Crítica,Lucas Pereira,Compliance,Alta,2025-08-02,2025-09-01,,Atrasado,Sim
+R049,T0116,C007,CIC007,Revisão e correção do controle C007 - Falha Crítica,Mariana Costa,Compliance,Alta,2025-09-26,2025-10-26,,Não iniciado,Sim
+R050,T0120,C013,CIC007,Revisão e correção do controle C013 - Falha Crítica,Camila Souza,Controles Internos,Alta,2025-09-11,2025-10-11,,Não iniciado,Sim
+R051,T0121,C002,CIC007,Revisão e correção do controle C002 - Deficiência Operacional,Camila Souza,Compliance,Baixa,2025-09-07,2025-12-06,2025-11-16,Concluído,Não
+R052,T0122,C004,CIC007,Revisão e correção do controle C004 - Deficiência de Design,Felipe Santos,TI,Baixa,2025-07-19,2025-10-17,2025-09-24,Concluído,Sim
+R053,T0125,C005,CIC007,Revisão e correção do controle C005 - Deficiência de Design,Ricardo Mendes,Crédito,Média,2025-09-11,2025-11-10,2025-09-27,Concluído,Sim
+R054,T0126,C019,CIC007,Revisão e correção do controle C019 - Deficiência Operacional,Lucas Pereira,Financeiro,Média,2025-08-17,2025-10-16,2025-09-26,Concluído,Sim
+R055,T0127,C014,CIC007,Revisão e correção do controle C014 - Falha Crítica,Felipe Santos,Controles Internos,Alta,2025-08-05,2025-09-04,,Em andamento,Não
+R056,T0128,C008,CIC008,Revisão e correção do controle C008 - Falha Crítica,Felipe Santos,Compliance,Alta,2025-11-12,2025-12-12,,Não iniciado,Sim
+R057,T0132,C019,CIC008,Revisão e correção do controle C019 - Falha Crítica,Felipe Santos,TI,Alta,2025-11-13,2025-12-13,,Não iniciado,Sim
+R058,T0133,C001,CIC008,Revisão e correção do controle C001 - Deficiência Operacional,Bruno Alves,Crédito,Média,2025-11-16,2026-01-15,,Atrasado,Não
+R059,T0134,C007,CIC008,Revisão e correção do controle C007 - Deficiência de Design,Ricardo Mendes,Controles Internos,Média,2025-12-01,2026-01-30,2025-12-21,Concluído,Sim
+R060,T0136,C012,CIC008,Revisão e correção do controle C012 - Deficiência de Design,Lucas Pereira,Financeiro,Baixa,2025-11-02,2026-01-31,2025-11-30,Concluído,Sim
+R061,T0137,C010,CIC008,Revisão e correção do controle C010 - Deficiência Operacional,Lucas Pereira,Financeiro,Baixa,2025-12-13,2026-03-13,2026-01-11,Concluído,Sim
+R062,T0140,C015,CIC008,Revisão e correção do controle C015 - Deficiência Operacional,Felipe Santos,Controles Internos,Média,2025-10-11,2025-12-10,,Em andamento,Não

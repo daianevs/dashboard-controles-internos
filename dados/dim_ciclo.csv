@@ -1,0 +1,9 @@
+id_ciclo,descricao_ciclo,ano,trimestre,data_inicio,data_fim,status_ciclo,responsavel_ciclo
+CIC001,Ciclo de Testes T1 2024,2024,T1,2024-01-15,2024-03-31,Concluído,Tatiane Ferreira
+CIC002,Ciclo de Testes T2 2024,2024,T2,2024-04-01,2024-06-30,Concluído,Tatiane Ferreira
+CIC003,Ciclo de Testes T3 2024,2024,T3,2024-07-01,2024-09-30,Concluído,Tatiane Ferreira
+CIC004,Ciclo de Testes T4 2024,2024,T4,2024-10-01,2024-12-31,Concluído,Tatiane Ferreira
+CIC005,Ciclo de Testes T1 2025,2025,T1,2025-01-15,2025-03-31,Concluído,Tatiane Ferreira
+CIC006,Ciclo de Testes T2 2025,2025,T2,2025-04-01,2025-06-30,Concluído,Tatiane Ferreira
+CIC007,Ciclo de Testes T3 2025,2025,T3,2025-07-01,2025-09-30,Concluído,Tatiane Ferreira
+CIC008,Ciclo de Testes T4 2025,2025,T4,2025-10-01,2025-12-31,Em andamento,Tatiane Ferreira

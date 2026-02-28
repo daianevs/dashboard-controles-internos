@@ -1,0 +1,143 @@
+id_teste,id_controle,id_ciclo,id_auditor,data_teste,tipo_teste,tamanho_amostra,desvios_encontrados,resultado_teste,tipo_deficiencia,obs_teste
+T0001,C009,CIC001,A002,2024-03-13,Reperformance,5,2,Inefetivo,Falha Crítica,Foram identificados 2 desvio(s) na amostra.
+T0002,C008,CIC001,A007,2024-02-09,Reperformance,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0003,C019,CIC001,A002,2024-02-08,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0004,C005,CIC001,A001,2024-03-08,Teste Analítico,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0005,C004,CIC001,A007,2024-01-25,Reperformance,5,1,Deficiência Significativa,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0006,C011,CIC001,A006,2024-01-30,Teste Analítico,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0007,C012,CIC001,A007,2024-02-13,Walkthrough,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0008,C020,CIC001,A001,2024-02-26,Teste de Amostragem,16,2,Deficiência Significativa,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0009,C002,CIC001,A007,2024-03-18,Teste Analítico,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0010,C010,CIC001,A002,2024-03-05,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0011,C007,CIC001,A002,2024-02-20,Reperformance,4,2,Deficiência Significativa,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0012,C001,CIC001,A008,2024-03-01,Walkthrough,2,1,Deficiência Significativa,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0013,C013,CIC001,A003,2024-03-11,Walkthrough,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0014,C018,CIC001,A007,2024-02-16,Reperformance,4,2,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 2 desvio(s) na amostra.
+T0015,C014,CIC001,A002,2024-02-22,Teste de Amostragem,45,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0016,C006,CIC001,A006,2024-03-14,Reperformance,3,1,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0017,C015,CIC001,A004,2024-03-25,Walkthrough,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0018,C003,CIC001,A007,2024-02-08,Teste de Amostragem,37,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC001.
+T0019,C016,CIC001,A004,2024-03-09,Reperformance,5,2,Deficiência Significativa,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0020,C001,CIC002,A006,2024-04-26,Walkthrough,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0021,C004,CIC002,A001,2024-06-07,Walkthrough,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0022,C018,CIC002,A001,2024-05-06,Teste de Amostragem,46,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0023,C009,CIC002,A007,2024-04-16,Reperformance,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0024,C011,CIC002,A008,2024-06-13,Teste de Amostragem,18,3,Inefetivo,Falha Crítica,Foram identificados 3 desvio(s) na amostra.
+T0025,C002,CIC002,A006,2024-05-09,Reperformance,2,1,Efetivo com Ressalva,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0026,C005,CIC002,A004,2024-05-15,Teste Analítico,4,2,Inefetivo,Falha Crítica,Foram identificados 2 desvio(s) na amostra.
+T0027,C007,CIC002,A002,2024-05-07,Walkthrough,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0028,C003,CIC002,A006,2024-06-20,Teste de Amostragem,47,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0029,C008,CIC002,A001,2024-04-06,Walkthrough,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0030,C020,CIC002,A008,2024-04-10,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0031,C014,CIC002,A007,2024-05-11,Reperformance,2,1,Efetivo com Ressalva,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0032,C012,CIC002,A006,2024-06-18,Reperformance,2,2,Inefetivo,Falha Crítica,Foram identificados 2 desvio(s) na amostra.
+T0033,C017,CIC002,A001,2024-04-30,Walkthrough,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0034,C010,CIC002,A004,2024-05-30,Reperformance,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0035,C016,CIC002,A004,2024-04-13,Teste Analítico,1,1,Deficiência Significativa,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0036,C015,CIC002,A006,2024-04-30,Reperformance,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0037,C006,CIC002,A003,2024-04-29,Reperformance,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC002.
+T0038,C003,CIC003,A008,2024-08-08,Reperformance,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0039,C015,CIC003,A007,2024-09-15,Reperformance,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0040,C018,CIC003,A002,2024-08-12,Walkthrough,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0041,C004,CIC003,A001,2024-09-13,Teste Analítico,1,1,Inefetivo,Falha Crítica,Foram identificados 1 desvio(s) na amostra.
+T0042,C002,CIC003,A008,2024-09-08,Teste de Amostragem,13,1,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0043,C011,CIC003,A006,2024-07-14,Walkthrough,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0044,C009,CIC003,A006,2024-07-21,Teste de Amostragem,47,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0045,C001,CIC003,A001,2024-09-23,Reperformance,5,2,Deficiência Significativa,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0046,C016,CIC003,A007,2024-08-01,Teste Analítico,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0047,C017,CIC003,A002,2024-08-25,Teste Analítico,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0048,C020,CIC003,A001,2024-07-15,Reperformance,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0049,C007,CIC003,A006,2024-07-15,Teste de Amostragem,42,5,Efetivo com Ressalva,Deficiência de Design,Foram identificados 5 desvio(s) na amostra.
+T0050,C008,CIC003,A001,2024-08-19,Teste de Amostragem,33,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0051,C019,CIC003,A004,2024-07-26,Teste Analítico,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0052,C012,CIC003,A003,2024-09-14,Walkthrough,2,2,Deficiência Significativa,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0053,C014,CIC003,A007,2024-07-19,Teste de Amostragem,27,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0054,C013,CIC003,A002,2024-09-21,Teste Analítico,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC003.
+T0055,C005,CIC003,A004,2024-09-08,Teste Analítico,1,1,Deficiência Significativa,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0056,C006,CIC003,A001,2024-08-10,Walkthrough,3,1,Deficiência Significativa,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0057,C010,CIC003,A007,2024-07-26,Reperformance,5,2,Deficiência Significativa,Deficiência Operacional,Foram identificados 2 desvio(s) na amostra.
+T0058,C001,CIC004,A003,2024-10-19,Reperformance,5,1,Deficiência Significativa,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0059,C004,CIC004,A008,2024-10-26,Teste de Amostragem,36,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0060,C003,CIC004,A007,2024-10-28,Teste Analítico,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0061,C005,CIC004,A002,2024-11-09,Walkthrough,4,1,Deficiência Significativa,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0062,C002,CIC004,A008,2024-10-31,Reperformance,3,2,Efetivo com Ressalva,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0063,C014,CIC004,A001,2024-11-03,Teste de Amostragem,35,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0064,C006,CIC004,A008,2024-11-10,Walkthrough,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0065,C010,CIC004,A004,2024-12-10,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0066,C009,CIC004,A002,2024-11-08,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0067,C018,CIC004,A004,2024-12-21,Teste Analítico,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0068,C007,CIC004,A006,2024-11-24,Teste de Amostragem,26,1,Efetivo com Ressalva,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0069,C011,CIC004,A001,2024-11-30,Teste de Amostragem,33,4,Inefetivo,Falha Crítica,Foram identificados 4 desvio(s) na amostra.
+T0070,C020,CIC004,A006,2024-11-17,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0071,C012,CIC004,A006,2024-11-13,Teste Analítico,4,2,Inefetivo,Falha Crítica,Foram identificados 2 desvio(s) na amostra.
+T0072,C013,CIC004,A006,2024-11-12,Teste de Amostragem,22,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0073,C008,CIC004,A007,2024-11-23,Teste de Amostragem,49,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0074,C015,CIC004,A006,2024-11-26,Walkthrough,3,2,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 2 desvio(s) na amostra.
+T0075,C017,CIC004,A008,2024-11-30,Teste Analítico,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC004.
+T0076,C015,CIC005,A001,2025-02-07,Walkthrough,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC005.
+T0077,C007,CIC005,A004,2025-03-19,Teste de Amostragem,34,4,Efetivo com Ressalva,Deficiência de Design,Foram identificados 4 desvio(s) na amostra.
+T0078,C017,CIC005,A002,2025-02-20,Walkthrough,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC005.
+T0079,C016,CIC005,A002,2025-03-15,Teste de Amostragem,43,8,Inefetivo,Falha Crítica,Foram identificados 8 desvio(s) na amostra.
+T0080,C006,CIC005,A008,2025-02-20,Walkthrough,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC005.
+T0081,C011,CIC005,A007,2025-03-20,Teste Analítico,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC005.
+T0082,C002,CIC005,A002,2025-03-18,Reperformance,4,2,Deficiência Significativa,Deficiência Operacional,Foram identificados 2 desvio(s) na amostra.
+T0083,C005,CIC005,A008,2025-02-20,Teste Analítico,5,2,Inefetivo,Falha Crítica,Foram identificados 2 desvio(s) na amostra.
+T0084,C009,CIC005,A004,2025-02-24,Walkthrough,3,1,Deficiência Significativa,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0085,C020,CIC005,A003,2025-03-03,Walkthrough,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC005.
+T0086,C010,CIC005,A004,2025-02-18,Teste de Amostragem,23,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC005.
+T0087,C018,CIC005,A004,2025-03-14,Teste Analítico,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC005.
+T0088,C014,CIC005,A002,2025-01-27,Reperformance,4,1,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0089,C019,CIC005,A004,2025-03-09,Walkthrough,3,2,Inefetivo,Falha Crítica,Foram identificados 2 desvio(s) na amostra.
+T0090,C008,CIC005,A008,2025-03-10,Reperformance,5,1,Inefetivo,Falha Crítica,Foram identificados 1 desvio(s) na amostra.
+T0091,C003,CIC005,A004,2025-02-23,Reperformance,1,2,Efetivo com Ressalva,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0092,C012,CIC005,A007,2025-03-12,Teste de Amostragem,39,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC005.
+T0093,C020,CIC006,A003,2025-06-03,Teste Analítico,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0094,C018,CIC006,A003,2025-05-29,Walkthrough,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0095,C001,CIC006,A001,2025-06-14,Teste Analítico,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0096,C013,CIC006,A008,2025-04-11,Walkthrough,2,1,Deficiência Significativa,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0097,C019,CIC006,A002,2025-06-24,Teste de Amostragem,18,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0098,C002,CIC006,A002,2025-06-17,Reperformance,3,2,Efetivo com Ressalva,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0099,C011,CIC006,A006,2025-06-22,Walkthrough,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0100,C007,CIC006,A006,2025-04-19,Walkthrough,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0101,C003,CIC006,A007,2025-05-26,Teste de Amostragem,14,1,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0102,C008,CIC006,A008,2025-05-14,Walkthrough,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0103,C012,CIC006,A006,2025-05-20,Reperformance,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0104,C016,CIC006,A007,2025-06-09,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0105,C005,CIC006,A001,2025-06-07,Reperformance,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC006.
+T0106,C004,CIC006,A004,2025-04-25,Teste de Amostragem,43,5,Deficiência Significativa,Deficiência Operacional,Foram identificados 5 desvio(s) na amostra.
+T0107,C010,CIC006,A004,2025-06-04,Teste Analítico,3,1,Deficiência Significativa,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0108,C003,CIC007,A001,2025-09-15,Teste de Amostragem,15,1,Deficiência Significativa,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0109,C009,CIC007,A004,2025-08-27,Teste de Amostragem,40,8,Inefetivo,Falha Crítica,Foram identificados 8 desvio(s) na amostra.
+T0110,C015,CIC007,A003,2025-07-17,Teste de Amostragem,35,6,Efetivo com Ressalva,Deficiência de Design,Foram identificados 6 desvio(s) na amostra.
+T0111,C008,CIC007,A007,2025-08-14,Teste Analítico,4,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC007.
+T0112,C018,CIC007,A007,2025-08-29,Teste Analítico,3,2,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 2 desvio(s) na amostra.
+T0113,C010,CIC007,A003,2025-08-14,Teste de Amostragem,17,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC007.
+T0114,C016,CIC007,A003,2025-07-30,Walkthrough,5,1,Inefetivo,Falha Crítica,Foram identificados 1 desvio(s) na amostra.
+T0115,C011,CIC007,A007,2025-08-02,Reperformance,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC007.
+T0116,C007,CIC007,A008,2025-09-19,Teste Analítico,1,1,Inefetivo,Falha Crítica,Foram identificados 1 desvio(s) na amostra.
+T0117,C006,CIC007,A003,2025-08-04,Teste de Amostragem,29,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC007.
+T0118,C001,CIC007,A002,2025-09-12,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC007.
+T0119,C017,CIC007,A003,2025-09-14,Teste de Amostragem,50,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC007.
+T0120,C013,CIC007,A001,2025-09-06,Walkthrough,5,2,Inefetivo,Falha Crítica,Foram identificados 2 desvio(s) na amostra.
+T0121,C002,CIC007,A003,2025-08-31,Teste de Amostragem,13,2,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 2 desvio(s) na amostra.
+T0122,C004,CIC007,A004,2025-07-14,Reperformance,1,1,Efetivo com Ressalva,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0123,C012,CIC007,A008,2025-07-25,Teste Analítico,1,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC007.
+T0124,C020,CIC007,A006,2025-07-21,Reperformance,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC007.
+T0125,C005,CIC007,A004,2025-09-10,Reperformance,4,2,Deficiência Significativa,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0126,C019,CIC007,A006,2025-08-14,Walkthrough,5,1,Deficiência Significativa,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0127,C014,CIC007,A007,2025-08-01,Teste de Amostragem,26,1,Inefetivo,Falha Crítica,Foram identificados 1 desvio(s) na amostra.
+T0128,C008,CIC008,A007,2025-11-11,Reperformance,1,1,Inefetivo,Falha Crítica,Foram identificados 1 desvio(s) na amostra.
+T0129,C006,CIC008,A004,2025-10-31,Walkthrough,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC008.
+T0130,C018,CIC008,A003,2025-10-25,Teste de Amostragem,14,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC008.
+T0131,C003,CIC008,A008,2025-10-27,Teste Analítico,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC008.
+T0132,C019,CIC008,A004,2025-11-11,Walkthrough,4,2,Inefetivo,Falha Crítica,Foram identificados 2 desvio(s) na amostra.
+T0133,C001,CIC008,A006,2025-11-09,Reperformance,4,1,Deficiência Significativa,Deficiência Operacional,Foram identificados 1 desvio(s) na amostra.
+T0134,C007,CIC008,A007,2025-11-30,Teste Analítico,5,2,Deficiência Significativa,Deficiência de Design,Foram identificados 2 desvio(s) na amostra.
+T0135,C020,CIC008,A002,2025-10-17,Walkthrough,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC008.
+T0136,C012,CIC008,A004,2025-10-28,Reperformance,3,1,Efetivo com Ressalva,Deficiência de Design,Foram identificados 1 desvio(s) na amostra.
+T0137,C010,CIC008,A001,2025-12-07,Reperformance,3,2,Efetivo com Ressalva,Deficiência Operacional,Foram identificados 2 desvio(s) na amostra.
+T0138,C013,CIC008,A007,2025-11-16,Walkthrough,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC008.
+T0139,C005,CIC008,A007,2025-11-27,Reperformance,3,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC008.
+T0140,C015,CIC008,A004,2025-10-10,Walkthrough,3,2,Deficiência Significativa,Deficiência Operacional,Foram identificados 2 desvio(s) na amostra.
+T0141,C002,CIC008,A008,2025-10-20,Reperformance,5,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC008.
+T0142,C017,CIC008,A004,2025-12-04,Walkthrough,2,0,Efetivo,Não Aplicável,Teste realizado conforme plano do ciclo CIC008.

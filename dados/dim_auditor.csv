@@ -1,0 +1,9 @@
+id_auditor,nome_auditor,cargo,area,nivel_senioridade
+A001,Fernanda Oliveira,Analista de Controles Internos,Controles Internos,Pleno
+A002,Ricardo Mendes,Analista de Controles Internos,Controles Internos,Sênior
+A003,Camila Souza,Analista de Compliance,Compliance,Pleno
+A004,Bruno Alves,Analista de Riscos,Gestão de Riscos,Júnior
+A005,Tatiane Ferreira,Coordenadora de Controles,Controles Internos,Coordenador
+A006,Lucas Pereira,Analista de Auditoria Interna,Auditoria Interna,Pleno
+A007,Mariana Costa,Analista de PLD,Compliance,Sênior
+A008,Felipe Santos,Analista de Riscos,Gestão de Riscos,Pleno

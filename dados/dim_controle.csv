@@ -1,0 +1,21 @@
+id_controle,nome_controle,id_processo,tipo_controle,natureza_controle,frequencia,modalidade,objetivo_controle,norma_referencia
+C001,Análise de capacidade de pagamento,P001,Preventivo,Manual,Por operação,Detectivo,Evitar concessão de crédito a clientes sem capacidade de pagamento,Resolução CMN 4.966/2021
+C002,Verificação de score mínimo,P001,Preventivo,Automatizado,Por operação,Preventivo,Bloquear operações abaixo do score mínimo,Política Interna de Crédito
+C003,Aprovação por alçada,P002,Preventivo,Manual,Por operação,Preventivo,Garantir que operações PJ sejam aprovadas pela alçada correta,Política de Alçadas
+C004,Checklist documental KYC,P006,Preventivo,Manual,Por cadastro,Detectivo,Garantir completude da documentação do cliente,Circular BCB 3.978/2020
+C005,Monitoramento de listas restritivas,P006,Preventivo,Automatizado,Diário,Preventivo,Identificar clientes em listas de sanção e PEP,Resolução BCB 44/2021
+C006,Alertas de transações atípicas,P007,Detectivo,Automatizado,Contínuo,Detectivo,Detectar operações com padrão suspeito de lavagem de dinheiro,Circular BCB 3.978/2020
+C007,Revisão mensal da carteira PLD,P019,Detectivo,Manual,Mensal,Detectivo,Revisar clientes com alto risco PLD,Circular BCB 3.978/2020
+C008,Validação do leiaute CADOC 3040,P008,Preventivo,Automatizado,Mensal,Preventivo,Garantir conformidade do arquivo antes do envio ao BACEN,IN BCB 393/2023
+C009,Conciliação 3040 vs sistemas internos,P008,Detectivo,Manual,Mensal,Detectivo,Identificar divergências entre saldo reportado e sistemas fonte,IN BCB 393/2023
+C010,Validação de eventos CADOC 3044,P009,Preventivo,Automatizado,Diário,Preventivo,Garantir integridade dos eventos antes do envio,IN BCB 570/2024
+C011,Revisão de PCLD por rating,P010,Detectivo,Manual,Mensal,Detectivo,Garantir adequação da provisão ao risco da carteira,Resolução CMN 4.966/2021
+C012,Conciliação contábil diária,P011,Detectivo,Automatizado,Diário,Detectivo,Identificar partidas em aberto no balancete,COSIF
+C013,Revisão trimestral de acessos,P012,Detectivo,Manual,Trimestral,Detectivo,Identificar acessos indevidos ou desatualizados,Política de Segurança da Informação
+C014,Teste de restauração de backup,P013,Detectivo,Manual,Semestral,Detectivo,Confirmar integridade e recuperabilidade dos backups,ISO 27001
+C015,Avaliação de due diligence de fornecedores,P014,Preventivo,Manual,Por contrato,Preventivo,Verificar idoneidade de fornecedores antes da contratação,Política Anticorrupção
+C016,Revisão da folha por gestor,P015,Detectivo,Manual,Mensal,Detectivo,Identificar divergências na remuneração dos colaboradores,CLT e Política RH
+C017,Análise de conflitos de função,P016,Preventivo,Manual,Semestral,Preventivo,Detectar acúmulo indevido de funções incompatíveis,COSO - Controles Internos
+C018,Validação de limites por comitê,P017,Preventivo,Manual,Por operação,Preventivo,Garantir que limites sejam aprovados pelo comitê correto,Regimento do Comitê de Crédito
+C019,Registro e avaliação de garantias,P018,Detectivo,Manual,Por operação,Detectivo,Confirmar suficiência e liquidez das garantias,Resolução CMN 4.966/2021
+C020,Elaboração do relatório ao conselho,P020,Detectivo,Manual,Trimestral,Detectivo,Garantir transparência e tempestividade do reporte à governança,Estatuto Social

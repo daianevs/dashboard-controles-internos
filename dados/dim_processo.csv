@@ -1,0 +1,21 @@
+id_processo,nome_processo,macroprocesso,diretoria,area_responsavel
+P001,Concessão de Crédito PF,Crédito,Diretoria de Crédito,Análise de Crédito
+P002,Concessão de Crédito PJ,Crédito,Diretoria de Crédito,Análise de Crédito
+P003,Renegociação de Dívidas,Crédito,Diretoria de Crédito,Recuperação de Crédito
+P004,Abertura de Conta Corrente,Produtos Bancários,Diretoria Comercial,Onboarding
+P005,Encerramento de Conta,Produtos Bancários,Diretoria Comercial,Onboarding
+P006,Cadastro e KYC,Compliance,Diretoria de Compliance,PLD/FT
+P007,Monitoramento de Transações Suspeitas,Compliance,Diretoria de Compliance,PLD/FT
+P008,Remessa CADOC 3040,Regulatório,Diretoria de Riscos,Controles Regulatórios
+P009,Remessa CADOC 3044,Regulatório,Diretoria de Riscos,Controles Regulatórios
+P010,Apuração de Provisão (PCLD),Contábil,Diretoria Financeira,Contabilidade
+P011,Conciliação Contábil,Contábil,Diretoria Financeira,Contabilidade
+P012,Gestão de Acessos e Perfis,TI e Segurança,Diretoria de TI,Segurança da Informação
+P013,Backup e Recuperação de Dados,TI e Segurança,Diretoria de TI,Infraestrutura
+P014,Gestão de Contratos de Terceiros,Suprimentos,Diretoria Administrativa,Contratos
+P015,Folha de Pagamento,RH,Diretoria de RH,Remuneração
+P016,Segregação de Funções,Governança,Diretoria de Riscos,Controles Internos
+P017,Aprovação de Limites Operacionais,Crédito,Diretoria de Crédito,Comitê de Crédito
+P018,Gestão de Garantias,Crédito,Diretoria de Crédito,Garantias
+P019,Prevenção à Lavagem de Dinheiro,Compliance,Diretoria de Compliance,PLD/FT
+P020,Reporte ao Conselho de Administração,Governança,Diretoria de Riscos,Governança Corporativa
