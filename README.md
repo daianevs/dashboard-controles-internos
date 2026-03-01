@@ -237,5 +237,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-> *"A transformação de dados operacionais de compliance em inteligência executiva não requer grandes investimentos em tecnologia, mas sim disciplina de coleta, padronização de domínios e modelagem relacional adequada."*
-> — Daiane Vinharski, 2026
+
